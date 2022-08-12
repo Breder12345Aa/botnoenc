@@ -20,24 +20,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['994408465157'] //masukin no owner nya
+global.owner = ['6283183321692'] //masukin no owner nya
 global.ownername = "ISI PULSA"
-global.ytname = "YT: ARY GAMZ" //ur yt chanel name
+global.ytname = "YT:ALBOT" //ur yt chanel name
 global.socialm = "GitHub: arygamz" //ur github or insta name
-global.location = "Indonesia, Sumut, Sibolangit" //ur location
+global.location = "Indonesia, Sumut, Medan" //ur location
 
 //bot bombdy
-global.botname = "Arybotz-Md" //ur bot name
-global.websitex = "https://github.com/arygamz" //ur website
+global.botname = "Fvp BOT" //ur bot name
+global.websitex = "https://wa.me/6283183321692" //ur website
 global.vidmenu = { url: 'https://k.top4top.io/m_2368l5agg1.mp4' } //gif and video menu
-global.packname = "Ary Bot Stickers\n\n\n\n\n\n\n🕊️🕊️ "
-global.author = "ARY GAMZ" 
+global.packname = "Fvp Bot Stickers\n\n\n\n\n\n\n🕊️🕊️ "
+global.author = "Fvp by Bot" 
 global.themeemoji = "🕊️"
 global.reactmoji = "🐣"
-global.ownertag = ['994408465157','6281264038909'] //ur owner tag
-global.ownernummenu = ['994408465157','994408465157'] //ur owner number in menu and all
-global.watermark = "Arybotz-MDv3." //ur watermark
-global.botscript = "https://github.com/arygamz/botnoenc"
+global.ownertag = ['6283183321692','6281264038909'] //ur owner tag
+global.ownernummenu = ['6283183321692','994408465157'] //ur owner number in menu and all
+global.watermark = "Fvp - BOT." //ur watermark
+global.botscript = "minta ke https://wa.me/6283183321692"
 global.linkz1 = "https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk"
 global.linkz2 = "https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk"
 
